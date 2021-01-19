@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "412551698257",
+    "firebase_url": "https://belajar-matematika-3a156-default-rtdb.firebaseio.com",
+    "project_id": "belajar-matematika-3a156",
+    "storage_bucket": "belajar-matematika-3a156.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412551698257:android:6402976eb3e9bf51236570",
+        "android_client_info": {
+          "package_name": "com.smartbaby.care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412551698257-hrs7tm0ru1pc0qmpilqs10u8v9bujlpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc9kizUrcHPadcQzjn0RRdwQdqvRFykDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412551698257-hrs7tm0ru1pc0qmpilqs10u8v9bujlpb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

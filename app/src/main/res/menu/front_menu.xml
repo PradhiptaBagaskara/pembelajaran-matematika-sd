@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/edukasi"
+        android:title="Edukasi"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/story"
+        android:title="Video"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/forum"
+        android:title="Chattroom"
+        android:visible="false"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/item2"
+        android:title="Akun Saya"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/item1"
+        android:title="Logout"
+        app:showAsAction="never"/>
+</menu>
